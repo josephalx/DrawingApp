@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Drawing App for kids</string>
+    <string name="button_to_choose_brush">Button to choose brush</string>
+    <string name="close_button">close Button</string>
+    <string name="palette">Palette</string>
+    <string name="purple">purple_200</string>
+    <string name="black">black</string>
+    <string name="indigo">indigo</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+    <string name="yellow">yellow</string>
+    <string name="orange">orange</string>
+    <string name="red">red</string>
+    <string name="white">white</string>
+    <string name="background_image">background Image</string>
+    <string name="button_to_choose_image_from_gallery">Button to choose image from gallery</string>
+    <string name="undo_button">Undo Button</string>
+    <string name="redo_button">Redo Button</string>
+    <string name="save_picture">save picture</string>
+    <string name="share_picture">Share Picture</string>
+    <string name="please_wait">Please Wait</string>
+</resources>

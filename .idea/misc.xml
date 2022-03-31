@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/background_drawable.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/bakground_drawable.xml" value="0.145" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/brush.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/button_border.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/button_borderless.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/dialog_bg.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_brush_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_palette_24.xml" value="0.1765" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_redo_24.xml" value="0.101" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.16" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_baseline_undo_24.xml" value="0.1765" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_iconmonstr_eraser.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_iconmonstr_eraser_2.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/palette_btn.xml" value="0.1765" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/palette_erase.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/drawable/pallete_erase.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/layout/brush_selection.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/layout/brush_selector.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/layout/brush_thickness.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/layout/loaders.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/layout/palette.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/menu/action_menu.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/DrawingAppforkids/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
